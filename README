@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=995
+
+This tiny compiler script teaches vim's :make command to utilize nant (http://nant.sf.net). Trival. Error strings are not that perfect yet. But works for me.
